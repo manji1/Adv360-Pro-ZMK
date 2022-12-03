@@ -46,5 +46,5 @@ https://kinesis-ergo.com/support/kb360pro/#firmware-updates
 https://kinesis-ergo.com/support/kb360pro/#manuals
 
 ## Memo
-GUI: https://kinesiscorporation.github.io/Adv360-Pro-GUI
+GUI: https://kinesiscorporation.github.io/Adv360-Pro-GUI \
 docs: https://zmk.dev/docs
