@@ -59,11 +59,11 @@
 
         layer_fn {
             bindings = <
- &kp F11     &kp F1     &kp F2     &kp F3     &kp F4             &kp F5                     &none   &none    &kp F6       &kp F7  &kp F8     &kp F9  &kp F10            &kp F12
-  &trans  &kp LG(Q)  &kp LG(W)  &kp LG(E)  &kp LG(R)          &kp LG(T)                     &none   &none  &kp HOME  &kp PAGE_UP  &kp UP  &kp PG_DN  &kp END  &kp LG(BACKSLASH)
-  &trans  &kp LG(A)  &kp LG(S)  &kp LG(D)  &kp LG(F)          &kp LG(G)                     &none  &trans    &trans                          &trans   &trans              &none  &kp LG(LEFT)   &kp LEFT       &kp DOWN       &kp RIGHT  &kp LG(RIGHT)         &kp LG(APOS)
-  &trans  &kp LG(Z)  &kp LG(X)  &kp LG(C)  &kp LG(V)          &kp LG(B)                     &none   &none    &trans        &none   &none     &trans    &none              &none     &kp LG(N)  &kp LG(M)  &kp LG(COMMA)  &kp LG(PERIOD)  &kp LG(SLASH)  &kp LG(RIGHT_SHIFT)
-  &trans     &trans     &trans     &trans     &trans  &kp LG(BACKSPACE)            &kp LG(DELETE)  &trans    &trans       &trans  &trans     &trans   &trans             &trans        &trans     &trans
+ &kp F11         &kp F1     &kp F2     &kp F3         &kp F4             &kp F5                     &none   &none    &kp F6       &kp F7  &kp F8         &kp F9  &kp F10               &kp F12
+  &trans      &kp LG(Q)  &kp LG(W)  &kp LG(E)      &kp LG(R)          &kp LG(T)                     &none   &none  &kp HOME  &kp PAGE_UP  &kp UP      &kp PG_DN  &kp END     &kp LG(BACKSLASH)
+  &trans      &kp LG(A)  &kp LG(S)  &kp LG(D)      &kp LG(F)          &kp LG(G)                     &none  &trans    &trans                              &trans   &trans                 &none           &kp LG(LEFT)   &kp LEFT       &kp DOWN       &kp RIGHT  &kp LG(RIGHT)         &kp LG(APOS)
+  &trans      &kp LG(Z)  &kp LG(X)  &kp LG(C)      &kp LG(V)          &kp LG(B)                     &none   &none    &trans        &none   &none         &trans    &none                 &none              &kp LG(N)  &kp LG(M)  &kp LG(COMMA)  &kp LG(PERIOD)  &kp LG(SLASH)  &kp LG(RIGHT_SHIFT)
+  &trans  &kp LG(GRAVE)     &trans     &trans  &kp LG(EQUAL)  &kp LG(BACKSPACE)            &kp LG(DELETE)  &trans    &trans       &trans  &trans  &kp LG(MINUS)   &trans  &kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)     &trans
             >;
         };
 
